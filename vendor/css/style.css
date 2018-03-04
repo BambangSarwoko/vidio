@@ -1,0 +1,31 @@
+.nav{
+    text-align: center; 
+    padding-top:100px;
+    background: rgb(15, 15, 15);
+    height:1000px;
+    width:800px;
+    position: fixed;top:0;
+    opacity: 0.7;
+    transform: skew(-20deg);
+    margin-left:-200px;
+    } 
+
+#vidio{
+    min-width: 800px;
+    min-height:1000px
+}
+img {
+    width: 70px;
+    height:70px;
+    opacity: 0.6;
+}
+img:hover {
+    opacity: 0.9;
+}
+li { 
+    list-style-type: none;
+    }
+.sosmed{
+    float:right;
+    margin-top: -350px;
+}
